@@ -1,1 +1,9 @@
-[{"power":"on","version":"1.0"}]
+[
+  {
+    "power": "on",
+    "package": "com.synthro",
+    "version": "1.0",
+    "why": "because",
+    "image": "https://"
+  }
+]
