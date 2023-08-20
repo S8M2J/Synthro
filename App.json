@@ -1,1 +1,16 @@
-{"power":"on","package":"com.synthro","version":"1.0","why":"because","image":"https://"}
+{
+  "version": "1.0",
+  "package": "com.synthro",
+  "power": "on",
+  "off title": "xxx",
+  "off description": "xxx",
+  "off picture": "xxx",
+  "ads": "off",
+  "ads title": "xxx",
+  "ads description": "xxx",
+  "ads picture": "xxx",
+  "not": "off",
+  "not title": "xxx",
+  "not description": "xxx",
+  "not picture": "xxx"
+}
