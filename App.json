@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "package": "com.synthro",
-  "power": "on",
+  "power": "off",
   "power title": "xxx",
   "power description": "xxx",
   "power picture": "xxx",
