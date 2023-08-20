@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "1.0",
   "up title": "xxx",
   "up description": "xxx",
   "up tel id": "xxx",
@@ -12,7 +12,7 @@
   "emil": "xxx",
   "support": "xxx",
   "package": "com.synthro",
-  "power": "on",
+  "power": "off",
   "power title": "xxx",
   "power description": "xxx",
   "power picture": "xxx",
